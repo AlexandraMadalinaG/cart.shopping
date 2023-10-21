@@ -46,7 +46,7 @@ let products = [
     },
     {
         id: 6,
-        name: 'Cluse Elegance',
+        name: 'Cluse Elegancegit commit -m "first commit"',
         image: 'img6.jpeg',
         price: '145 £',
     },
