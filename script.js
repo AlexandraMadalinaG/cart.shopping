@@ -1,4 +1,3 @@
-
 let openShopping = document.querySelector('.shopping');
 let closeShopping = document.querySelector('.closeShopping');
 let list = document.querySelector('.list');
@@ -17,39 +16,39 @@ closeShopping.addEventListener('click', () => {
 let products = [
     {
         id: 1,
-        name: 'PRODUCT NAME 1',
+        name: 'Vincero Luxury Ladies',
         image: 'img1.jpeg',
-        price: 120000,
+        price: '232 £',
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'DW Prestige World',
         image: 'img2.jpeg',
-        price: 120000,
+        price: '185 £',
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
+        name: 'DW All White',
         image: 'img3.jpeg',
-        price: 220000,
+        price: '349 £',
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'DW Silver',
         image: 'img4.jpeg',
-        price: 123000,
+        price: '129 £',
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'Cluse for Women',
         image: 'img5.jpeg',
-        price: 320000,
+        price: '270 £',
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: 'Cluse Elegance',
         image: 'img6.jpeg',
-        price: 120000,
+        price: '145 £',
     },
 ];
 let listCards = [];
