@@ -18,37 +18,37 @@ let products = [
         id: 1,
         name: 'Vincero Luxury Ladies',
         image: 'img1.jpeg',
-        price: '232 £',
+        price: 232,
     },
     {
         id: 2,
         name: 'DW Prestige World',
         image: 'img2.jpeg',
-        price: '185 £',
+        price: 185,
     },
     {
         id: 3,
         name: 'DW All White',
         image: 'img3.jpeg',
-        price: '349 £',
+        price: 349,
     },
     {
         id: 4,
         name: 'DW Silver',
         image: 'img4.jpeg',
-        price: '129 £',
+        price: 129,
     },
     {
         id: 5,
         name: 'Cluse for Women',
         image: 'img5.jpeg',
-        price: '270 £',
+        price: 270,
     },
     {
         id: 6,
         name: 'Cluse Elegancegit commit -m "first commit"',
         image: 'img6.jpeg',
-        price: '145 £',
+        price: 145,
     },
 ];
 let listCards = [];
